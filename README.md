@@ -1,4 +1,5 @@
 # m114
+by Valentin Nussbaumer @ TBZ
 
 ## [Codierung](Codieren)
 ### [Bilder](Codieren/Bilder)
